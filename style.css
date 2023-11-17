@@ -19,6 +19,7 @@
     color:#333;
 }
 
+
 html{
     font-size: 62.5%;
     overflow-x: hidden;
@@ -77,6 +78,9 @@ section{
 
 .heading span{
     color:var(--yellow);
+}
+i.fa-solid.fa-xmark {
+    display: none;
 }
 
 header{
